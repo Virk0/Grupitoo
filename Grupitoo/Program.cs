@@ -10,6 +10,7 @@ namespace Grupitoo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Lol kys xd");
         }
     }
 }
