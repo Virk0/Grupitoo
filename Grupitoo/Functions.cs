@@ -9,12 +9,18 @@ namespace Grupitoo
 {
     class NoteFunctions
     {
-        static string Path = "Notes.txt";
-        public static void CreateText()
+        static void creating_files()
         {
-            File.Create(Path);
+            string path = @"C:\grupitoo";
+            if (Directory.Exists(path))
+            {
+                File.AppendAllText(path + "\\Test.txt", "The first line");
+            }
+            else
+            {
+                Directory.CreateDirectory(path);
+                File.AppendAllText(path + "\\Test.txt", "The first line");
+            }
         }
-
-        
     }
 }
