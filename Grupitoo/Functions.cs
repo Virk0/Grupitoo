@@ -13,7 +13,6 @@ namespace Grupitoo
         public static void CreateText()
         {
             File.Create(Path);
-
         }
 
         
