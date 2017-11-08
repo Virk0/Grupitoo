@@ -4,3 +4,9 @@ C:\Users\opilane\Documents\GitHub\Grupitoo\Grupitoo\bin\Debug\Grupitoo.pdb
 C:\Users\opilane\Documents\GitHub\Grupitoo\Grupitoo\obj\Debug\Grupitoo.csprojResolveAssemblyReference.cache
 C:\Users\opilane\Documents\GitHub\Grupitoo\Grupitoo\obj\Debug\Grupitoo.exe
 C:\Users\opilane\Documents\GitHub\Grupitoo\Grupitoo\obj\Debug\Grupitoo.pdb
+C:\Users\User\Documents\GitHub\Grupitoo\Grupitoo\bin\Debug\Grupitoo.exe.config
+C:\Users\User\Documents\GitHub\Grupitoo\Grupitoo\obj\Debug\Grupitoo.exe
+C:\Users\User\Documents\GitHub\Grupitoo\Grupitoo\obj\Debug\Grupitoo.pdb
+C:\Users\User\Documents\GitHub\Grupitoo\Grupitoo\bin\Debug\Grupitoo.exe
+C:\Users\User\Documents\GitHub\Grupitoo\Grupitoo\bin\Debug\Grupitoo.pdb
+C:\Users\User\Documents\GitHub\Grupitoo\Grupitoo\obj\Debug\Grupitoo.csprojResolveAssemblyReference.cache
