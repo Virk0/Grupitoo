@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using System.Collections;
 using System.IO;
+=======
+>>>>>>> parent of ac75b96... xd2
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,6 +15,7 @@ namespace Grupitoo
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             
         }
 
@@ -43,6 +47,9 @@ namespace Grupitoo
                 foreach (string line in lines)
                     outputFile.WriteLine(line);
             }
+=======
+            Console.WriteLine("Lol kys xd");
+>>>>>>> parent of ac75b96... xd2
         }
         static void ReadingInFiles(string[] args)
         {
